@@ -1,0 +1,19 @@
+{
+  "name": "motion-design",
+  "version": "1.1.0",
+  "description": "Motion Design: create product videos in Remotion from a settled creative brief, mascot direction, design system and verified render.",
+  "author": {
+    "name": "Userorbit"
+  },
+  "license": "MIT",
+  "keywords": [
+    "remotion",
+    "video",
+    "motion-design",
+    "landing-page",
+    "product-marketing",
+    "design-system"
+  ],
+  "homepage": "https://github.com/userorbit/motion-video",
+  "repository": "https://github.com/userorbit/motion-video"
+}

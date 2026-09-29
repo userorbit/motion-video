@@ -1,0 +1,16 @@
+{
+  "name": "motion-design",
+  "owner": {
+    "name": "Userorbit"
+  },
+  "metadata": {
+    "description": "Motion Design tools for creating product videos in code."
+  },
+  "plugins": [
+    {
+      "name": "motion-design",
+      "source": "./plugins/motion-design",
+      "description": "Make a showreel-grade product film (landing loop, launch video, promo) in Remotion, built on the product's own design system."
+    }
+  ]
+}
